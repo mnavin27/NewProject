@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.216.144.4:8081/repository/maven-releases/</url>
+	      <url>http://18.216.144.4:8081/repository/NavinM/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.216.144.4:8081/repository/maven-snapshots/</url>
+	      <url>http://18.216.144.4:8081/repository/Navin/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
